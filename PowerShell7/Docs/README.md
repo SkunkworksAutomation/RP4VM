@@ -21,4 +21,4 @@
         * Task-05: example query for protected virtual machines with output to csv
         * Task-06: example query for groups with output to csv
         * Task-07: example query for copies with output to csv
-        * Task-08: example query for events that occured in the past x days
+        * Task-08: example query for events that occured in the past x days with output to csv
